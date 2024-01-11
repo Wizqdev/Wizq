@@ -8,6 +8,10 @@ hire! [Contact me](https://github.com/Wizqdev#-socials) To Know More.
 Tools And Techonologies I've Used.
 <details>
  <summary>Expand</summary>
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wizqdev&layout=compact)
+
  
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
